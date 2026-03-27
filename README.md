@@ -24,6 +24,7 @@ These labs reflect my practical learning process as I continue building skills i
 - [Restore from a System State Backup](https://github.com/tameshia/Restore-from-a-System-State-Backup)
 
 ## Additional Security Projects
+- coming soon!
 
 
 ---
