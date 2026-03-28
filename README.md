@@ -4,6 +4,20 @@ A collection of hands-on cybersecurity labs focused on identity and access manag
 
 These labs reflect my practical learning process as I continue building skills in system administration, troubleshooting, and security-focused thinking. Each project is documented to demonstrate both technical execution and clear written communication.
 
+Each lab includes a written walkthrough, screenshots, and key takeaways to document both the process and the concepts practiced.
+
+---
+
+## Featured Beginner Cybersecurity Labs
+
+These labs highlight foundational skills across Windows security, network analysis, web application security, and cloud identity and access management.
+
+- [Investigating Failed Logon Attempts on Windows](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems)
+- [Configuring Windows Defender Firewall Rules](#planned-labs)
+- [Analyzing DNS and TCP Traffic with Wireshark](#planned-labs)
+- [Exploring Web Application Security with OWASP Juice Shop](#planned-labs)
+- [Implementing Least Privilege in AWS IAM](#planned-labs)
+
 ---
 
 ## Identity and Access Management
@@ -13,7 +27,7 @@ These labs reflect my practical learning process as I continue building skills i
 ## Endpoint Security and System Hardening
 - [Implement a Password Protection Policy](https://github.com/tameshia/Implement-a-Password-Protection-Policy)
 - [Implement an Antivirus Policy](https://github.com/tameshia/Implement-an-Antivirus-Policy)
-- [Configure Windows Defender Firewall Rules](#planned-labs)
+- [Configuring Windows Defender Firewall Rules](#planned-labs)
 
 ## Monitoring and Log Analysis
 - [Investigating Failed Logon Attempts on Windows](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems)
@@ -32,11 +46,13 @@ These labs reflect my practical learning process as I continue building skills i
 - [Implementing Least Privilege in AWS IAM](#planned-labs)
 
 ## Planned Labs
+
 These are the next labs I am building and documenting:
-- Configure Windows Defender Firewall Rules
-- Analyze DNS and TCP Traffic with Wireshark
-- Explore Web Application Security with OWASP Juice Shop
-- Implement Least Privilege in AWS IAM
+
+- Configuring Windows Defender Firewall Rules
+- Analyzing DNS and TCP Traffic with Wireshark
+- Exploring Web Application Security with OWASP Juice Shop
+- Implementing Least Privilege in AWS IAM
 
 ---
 
@@ -59,4 +75,5 @@ These are the next labs I am building and documenting:
 ---
 
 ## Notes
+
 This repository serves as a central hub for my cybersecurity lab work and related projects. It brings together individual labs completed as part of my learning journey in IT and cybersecurity, with an emphasis on practical skills, documentation, and continuous improvement.
