@@ -13,7 +13,7 @@ Each lab includes a written walkthrough, screenshots, and key takeaways to docum
 These labs highlight foundational skills across Windows security, network analysis, web application security, and cloud identity and access management.
 
 - [Investigating Failed Logon Attempts on Windows](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems)
-- [Configuring Windows Defender Firewall Rules](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems)
+- [Configuring Windows Defender Firewall Rules](https://github.com/tameshia/Configuring-Windows-Defender-Firewall-Rules)
 - [Analyzing DNS and TCP Traffic with Wireshark](#planned-labs)
 - [Exploring Web Application Security with OWASP Juice Shop](#planned-labs)
 - [Implementing Least Privilege in AWS IAM](#planned-labs)
