@@ -14,7 +14,7 @@ These labs highlight foundational skills across Windows security, network analys
 
 - [Investigating Failed Logon Attempts on Windows](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems)
 - [Configuring Windows Defender Firewall Rules](https://github.com/tameshia/Configuring-Windows-Defender-Firewall-Rules)
-- [Analyzing DNS and TCP Traffic with Wireshark](#planned-labs)
+- [Analyzing DNS and TCP Traffic with Wireshark]([#planned-labs](https://github.com/tameshia/Analyzing-DNS-and-TCP-Traffic-with-Wireshark))
 - [Exploring Web Application Security with OWASP Juice Shop](#planned-labs)
 - [Implementing Least Privilege in AWS IAM](#planned-labs)
 
