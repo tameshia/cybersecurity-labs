@@ -42,7 +42,7 @@ Capture and analyze network traffic, with attention to protocol filtering, DNS l
 
 ## Additional Learning and Documentation
 
-- **[Technical Writeups](https://github.com/tameshia/technical-writeups)** — Written notes and walkthroughs, including Windows Event Viewer and a beginner Splunk SIEM exercise.
+- **[Technical Writeups](https://github.com/tameshia/technical-writeups)** — Written notes and walkthroughs, including an Event Viewer lab reflection and conceptual notes about Splunk.
 - **[AWS Fundamentals Lab Guides](https://github.com/tameshia/aws-fundamentals-lab)** — A structured learning series covering IAM, EC2, S3, VPC, and monitoring. These guides are learning resources; individual exercises and evidence should be checked before treating every phase as completed.
 - **[IT Systems Administration Labs](https://github.com/tameshia/it-systems-administration)** — A companion portfolio focused on Windows startup recovery, Registry management, Command Prompt, and general IT troubleshooting.
 
