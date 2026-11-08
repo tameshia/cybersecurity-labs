@@ -1,79 +1,70 @@
 # Cybersecurity Labs
 
-A collection of hands-on cybersecurity labs focused on identity and access management, endpoint security, system hardening, monitoring, logging, network traffic analysis, backup and recovery, and foundational cloud and web security concepts.
+A portfolio of hands-on security labs and technical documentation focused on Windows security, identity and access management, authentication logs, network traffic, and system hardening.
 
-These labs reflect my practical learning process as I continue building skills in system administration, troubleshooting, and security-focused thinking. Each project is documented to demonstrate both technical execution and clear written communication.
+I'm an Information Technology graduate with a concentration in Systems & Cybersecurity. These projects document my practical learning as I strengthen my IT support, systems administration, networking, and cybersecurity fundamentals.
 
-Each lab includes a written walkthrough, screenshots, and key takeaways to document both the process and the concepts practiced.
+> **How to explore:** Start with the featured labs below, or browse by topic. Each linked project opens its own repository with procedures, observations, and supporting documentation.
 
----
+## Featured Labs
 
-## Featured Beginner Cybersecurity Labs
+| Project | Focus | Tools / Environment |
+| --- | --- | --- |
+| [Investigating Failed Logon Attempts on Windows](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems) | Identify and analyze Windows authentication failures using Security Event ID 4625 | Windows 11, Event Viewer |
+| [Configuring Windows Defender Firewall Rules](https://github.com/tameshia/Configuring-Windows-Defender-Firewall-Rules) | Create and review an inbound rule blocking TCP port 8080 | Windows 11, Windows Defender Firewall |
+| [Analyzing DNS and TCP Traffic with Wireshark](https://github.com/tameshia/Analyzing-DNS-and-TCP-Traffic-with-Wireshark) | Capture traffic and examine DNS queries, responses, and TCP communication | Wireshark |
+| [Creating Users and Security Groups](https://github.com/tameshia/Create-Users-and-Security-Groups) | Practice user, group, and access control administration | Windows Server, Active Directory, PowerShell |
 
-These labs highlight foundational skills across Windows security, network analysis, web application security, and cloud identity and access management.
+## Explore by Topic
 
-- [Investigating Failed Logon Attempts on Windows](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems)
-- [Configuring Windows Defender Firewall Rules](https://github.com/tameshia/Configuring-Windows-Defender-Firewall-Rules)
-- [Analyzing DNS and TCP Traffic with Wireshark](https://github.com/tameshia/Analyzing-DNS-and-TCP-Traffic-with-Wireshark)
-- [Exploring Web Application Security with OWASP Juice Shop](https://github.com/tameshia/Exploring-Web-Application-Security-with-OWASP-Juice-Shop)
-- [Implementing Least Privilege in AWS IAM](#planned-labs)
+### Identity and Access Management
 
----
+**[Creating Users and Security Groups](https://github.com/tameshia/Create-Users-and-Security-Groups)**  
+A Windows Server lab documenting user and group administration and access control concepts in Active Directory.
 
-## Identity and Access Management
-- [Create Users and Security Groups](https://github.com/tameshia/Create-Users-and-Security-Groups)
-- [Create Folders and Configure Security Permissions](https://github.com/tameshia/Create-Folders-and-Configure-Security-Permissions)
+### Endpoint Security and System Hardening
 
-## Endpoint Security and System Hardening
-- [Implement a Password Protection Policy](https://github.com/tameshia/Implement-a-Password-Protection-Policy)
-- [Implement an Antivirus Policy](https://github.com/tameshia/Implement-an-Antivirus-Policy)
-- [Configuring Windows Defender Firewall Rules](#planned-labs)
+**[Configuring Windows Defender Firewall Rules](https://github.com/tameshia/Configuring-Windows-Defender-Firewall-Rules)**  
+Configure and examine host-based firewall rules, including a temporary rule that blocks inbound TCP port 8080.
 
-## Monitoring and Log Analysis
-- [Investigating Failed Logon Attempts on Windows](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems)
-- [Monitoring Network Activity with Snort](https://github.com/tameshia/Monitor-Network-Activity-with-Snort)
+**[Implementing an Antivirus Policy](https://github.com/tameshia/Implement-an-Antivirus-Policy)**  
+An earlier Windows Server security-policy walkthrough. This repository is retained as part of my learning archive and may receive additional editing and validation.
 
-## Network Security and Traffic Analysis
-- [Analyzing DNS and TCP Traffic with Wireshark](#planned-labs)
+### Authentication Monitoring and Log Analysis
 
-## Backup and Recovery
-- [Installing Windows Server Backup](https://github.com/tameshia/Install-Windows-Server-Backup)
-- [Configuring a System State Backup](https://github.com/tameshia/Configure-a-System-State-Backup)
-- [Restoring a Windows System from System State Backup](https://github.com/tameshia/Restore-from-a-System-State-Backup)
+**[Investigating Failed Logon Attempts on Windows](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems)**  
+Filter Windows Security logs for Event ID 4625 and examine information relevant to failed logon troubleshooting.
 
-## Cloud and Web Security
-- [Exploring Web Application Security with OWASP Juice Shop](#planned-labs)
-- [Implementing Least Privilege in AWS IAM](#planned-labs)
+### Networking and Traffic Analysis
 
-## Planned Labs
+**[Analyzing DNS and TCP Traffic with Wireshark](https://github.com/tameshia/Analyzing-DNS-and-TCP-Traffic-with-Wireshark)**  
+Capture and analyze network traffic, with attention to protocol filtering, DNS lookups, and TCP activity.
 
-These are the next labs I am building and documenting:
+## Additional Learning and Documentation
 
-- Configuring Windows Defender Firewall Rules
-- Analyzing DNS and TCP Traffic with Wireshark
-- Exploring Web Application Security with OWASP Juice Shop
-- Implementing Least Privilege in AWS IAM
+- **[Technical Writeups](https://github.com/tameshia/technical-writeups)** — Written notes and walkthroughs, including Windows Event Viewer and a beginner Splunk SIEM exercise.
+- **[AWS Fundamentals Lab Guides](https://github.com/tameshia/aws-fundamentals-lab)** — A structured learning series covering IAM, EC2, S3, VPC, and monitoring. These guides are learning resources; individual exercises and evidence should be checked before treating every phase as completed.
+- **[IT Systems Administration Labs](https://github.com/tameshia/it-systems-administration)** — A companion portfolio focused on Windows startup recovery, Registry management, Command Prompt, and general IT troubleshooting.
 
----
+## Projects in Development or Under Review
 
-## Tools and Skills Practiced
-- Windows administration
+I also have earlier coursework and lab drafts that are not linked here as completed public projects. These include work involving folder permissions, password policies, Snort monitoring, Windows Server backup and recovery, and web application security. Some are private, incomplete, or awaiting documentation review.
+
+As those labs are verified and updated, I can add public links and descriptions to the appropriate categories above.
+
+## Technical Areas Practiced
+
+- Windows administration and security configuration
 - User and group management
-- File and folder permissions
-- Security policy implementation
-- Event log analysis
-- Security monitoring
-- Snort basics
-- Windows backup and recovery
-- PowerShell
-- Technical documentation
-- Network traffic analysis
-- Firewall configuration
-- Web application security fundamentals
-- Cloud identity and access management
+- Windows Security event log analysis
+- Authentication troubleshooting
+- Host-based firewall configuration
+- DNS and TCP traffic analysis
+- Security monitoring fundamentals
+- Technical documentation and troubleshooting
 
----
+## About This Portfolio
 
-## Notes
+This repository is an **index of projects**, not a claim that every security topic listed above has been mastered or completed. My aim is to document what I practiced, explain what I observed, and make the underlying project evidence easy to find.
 
-This repository serves as a central hub for my cybersecurity lab work and related projects. It brings together individual labs completed as part of my learning journey in IT and cybersecurity, with an emphasis on practical skills, documentation, and continuous improvement.
+For more Windows support and systems administration work, visit [IT Systems Administration Labs](https://github.com/tameshia/it-systems-administration).
